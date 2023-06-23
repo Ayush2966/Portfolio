@@ -9,7 +9,7 @@ This repo contains my personal portfolio website.
 3. Portfolio page - Json typed portfolio page.
 
 ## Pages Preview
-### Landing page
+### <u> Landing page </u>
 <p>
   <img src="images/Screenshot%202023-06-21%20133504.png"/>
 </p>
