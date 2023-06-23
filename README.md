@@ -20,8 +20,8 @@ This repo contains my personal portfolio website.
 
 ### Redirecting page
 <p>
-  <img src="a1.png"/>
-  <img src="a2.png"/>  
+  <img src="images/a1.png"/>
+  <img src="images/a2.png"/>  
 </p>
 
 |Live Demo| http://ayush2966.me/Error-404/ |
