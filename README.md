@@ -14,9 +14,9 @@ This repo contains my personal portfolio website.
   <img src="images/Screenshot%202023-06-21%20133504.png"/>
 </p>
 
-|Live Demo| |
+|Live Demo| http://ayush2966.me/Aurora_Effect/ |
 |----|----|
-|Repo Link|  |
+|Repo Link| https://github.com/Ayush2966/Aurora_Effect |
 
 
 <hr>
