@@ -12,6 +12,7 @@ This repo contains my personal portfolio website.
 ### Landing page
 |Live Demo| |
 |Repo Link|  |
+|----|----|
 
 <hr>
 <p align="center">
