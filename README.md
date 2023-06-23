@@ -10,6 +10,9 @@ This repo contains my personal portfolio website.
 
 ## Pages Preview
 ### Landing page
+|Live Demo| |
+|Repo Link|  |
+
 <hr>
 <p align="center">
   Made By Ayush Jain with ❤️
