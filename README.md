@@ -18,6 +18,7 @@ This repo contains my personal portfolio website.
 |----|----|
 |Repo Link| https://github.com/Ayush2966/Aurora_Effect |
 <br>
+
 ## Redirecting Page Preview 
 <p>
   <img src="images/a1.png"/>
@@ -28,6 +29,7 @@ This repo contains my personal portfolio website.
 |----|----|
 |Repo Link| https://github.com/Ayush2966/Error-404 |
 <br>
+
 ## Portfolio Page Preview 
 <p>
   <img src="images/a3.png"/>  
