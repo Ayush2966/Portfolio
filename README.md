@@ -10,6 +10,9 @@ This repo contains my personal portfolio website.
 
 ## Pages Preview
 ### Landing page
+<p>
+  <img src="images/Screenshot%202023-06-21%20133504.png"/>
+</p>
 |Live Demo| |
 |----|----|
 |Repo Link|  |
